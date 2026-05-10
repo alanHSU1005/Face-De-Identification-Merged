@@ -1,0 +1,15 @@
+Dataset,Deid_Type,Param,Top1_Acc,Top5_Acc
+AT&T,None,0.0,81.25,97.5
+AT&T,Pixelization,4.0,16.25,33.75
+AT&T,Pixelization,8.0,6.25,26.25
+AT&T,Pixelization,16.0,3.75,11.25
+AT&T,Gaussian Blur,15.0,2.5,23.75
+AT&T,Gaussian Blur,45.0,5.0,11.25
+AT&T,Gaussian Blur,99.0,2.5,13.750000000000002
+AT&T,FFT,3.0,3.75,16.25
+AT&T,FFT,5.0,2.5,20.0
+AT&T,FFT,10.0,8.75,42.5
+AT&T,Adversarial (FGSM),0.01,18.75,61.25000000000001
+AT&T,Adversarial (FGSM),0.05,16.25,51.24999999999999
+AT&T,Adversarial (FGSM),0.1,21.25,52.5
+AT&T,Adversarial (FGSM),0.3,6.25,22.5
